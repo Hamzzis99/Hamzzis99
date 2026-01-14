@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>게임 기획자를 희망하는 언리얼엔진 개발자입니다!</li><li> AI를 활용해 최적화된 프로그램을 기능을 만들 수 있습니다!</li><li> 언리얼엔진5 C++를 끊임없이 공부하고 있습니다!</li><li> 다양한 스팀 게임을 즐겨합니다! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>게임 기획자를 희망하는 언리얼엔진 개발자입니다!</li><li> AI를 활용해 최적화된 프로그램 기능을 만들 수 있습니다!</li><li> 언리얼엔진5 C++를 끊임없이 공부하고 있습니다!</li><li> 다양한 스팀 게임을 즐겨합니다! </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 

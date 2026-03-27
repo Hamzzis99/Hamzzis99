@@ -1,3 +1,4 @@
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hamzzi99)](https://solved.ac/hamzzi99)
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=2d3db9&height=120&text=Hello%20Unreal!&animation=&fontColor=000000&fontSize=70" />
     </div>
@@ -9,8 +10,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-        [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hamzzi99)](https://solved.ac/hamzzi99)​
+          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">​
           </div>
     </div>
     <div style="text-align: left;">

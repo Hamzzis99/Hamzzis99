@@ -15,7 +15,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="text-align: left;"> 
-        <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=Git&logoColor=white">
+        <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
     </div>
 </div>
